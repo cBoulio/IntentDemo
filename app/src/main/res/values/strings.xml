@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="bacon">Bacon</string>
+    <string name="yo_you_like_apples">yo you like apples?</string>
+    <string name="apple">Apple</string>
+    <string name="yo_you_like_bacon">yo you like bacon?</string>
+</resources>
